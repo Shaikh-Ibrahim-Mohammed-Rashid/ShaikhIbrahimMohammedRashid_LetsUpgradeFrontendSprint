@@ -29,8 +29,3 @@ A beautiful and responsive landing page designed for **Tehzeeb Threads**, a Paki
 
 ---
 
-## 📷 Preview Screenshot
-
-> *(Add a screenshot here after deployment by uploading image and using this syntax)*  
-```md
-![Tehzeeb Threads Preview](screenshot.png)
